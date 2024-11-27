@@ -1,0 +1,40 @@
+# Working script with credentials
+download_mp3s.py
+
+# Config file with sensitive information
+config.py
+
+# Downloaded MP3s and music folders
+mp3_downloads/
+2000s Bassline House/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Chrome Driver
+chromedriver*
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
